@@ -1,1 +1,2 @@
-print("some shit from git")
+print("some shit from git")   
+#This is a test code for an application which reads code from git and run that automatically
